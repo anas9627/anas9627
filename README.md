@@ -1,9 +1,8 @@
 ## Bem-vindo(a) ao perfil de Ana Saraiva 😁
-
+## Entusiasta em Tecnologia - Analista de rede e Infraestrutura!
  <div>
    <a href="https://github.com/anas9627">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=anas9627&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anas9627&layout=compact&langs_count=6&theme=tokyonight"/>
 </div>
     
 <div style="display: inline_block"><br>
@@ -18,3 +17,4 @@
  
 ### Tentando manter a constância em programação!
  
+
